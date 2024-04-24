@@ -1,0 +1,16 @@
+{
+  "name": "whever",
+  "version": "1.0.0",
+  "description": "a repo who taught me how to push your vscode to github, basically i have used stackbliz a lots but now i have sifted toward vs code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Ashish Nagvanshi",
+  "license": "ISC"
+}
